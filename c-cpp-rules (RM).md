@@ -4,7 +4,7 @@ Zheng Junzhe
 
 > Bjarne Stroustrup: “*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.*”
 
-&emsp;&emsp;每个问题对应一条规则，每条规则可直接作为规范条款或审计检查点，本文是适用于不同应用场景的规则集合，读者可根据自身需求从中选取某个子集作为规范或审计依据，从而提高软件产品的安全性。
+&emsp;&emsp;每个问题对应一条规则，每条规则可直接作为规范条款或审计检查点.
 
 ## 规则说明
 
