@@ -1,10 +1,10 @@
-# C/C++ 安全规则集合 ![Version](https://img.shields.io/badge/version-1.3.1-brightgreen)
+# 创梦之翼算法组C/C++ 安全规则集合
+## Author List
+Zheng Junzhe
 
 > Bjarne Stroustrup: “*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.*”
 
-&emsp;&emsp;针对 C、C++ 语言，本文收录了 467 种需要重点关注的问题，可为制定编程规范提供依据，也可为代码审计以及相关培训提供指导意见，适用于桌面、服务端以及嵌入式等软件系统。  
 &emsp;&emsp;每个问题对应一条规则，每条规则可直接作为规范条款或审计检查点，本文是适用于不同应用场景的规则集合，读者可根据自身需求从中选取某个子集作为规范或审计依据，从而提高软件产品的安全性。
-<br/>
 
 ## 规则说明
 
